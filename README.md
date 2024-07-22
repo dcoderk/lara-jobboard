@@ -1,2 +1,2 @@
-# lara-jobboard
+# laravel-joblisting
 Laravel Job Board
